@@ -1,0 +1,1 @@
+Di lingkungan kampus, sering kali terjadi masalah dalam penjadwalan ruang kelas untuk berbagai acara seperti perkuliahan, seminar, ujian, dan sebagainya. Masalah tadi dapat diselesaikan melalui program python yang bisa membantu mengatur jadwal ruang kelas secara efisien.
